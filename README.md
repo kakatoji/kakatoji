@@ -1,3 +1,2 @@
-pengunjung
-
-[<img src='https://camo.githubusercontent.com/5c2e3e5a6931a15a10464ad8cefa622c540818552a92736b2f9b4a3415c23a78/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f4e316768743432302f636f756e742e737667'>
+ [<a href='https://freehitcounters.org/'>Visitor and Hit Counter</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=9932e3bedc5347487d77a89b818cc860163bd7d9'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/792751/t/6"></script>]
