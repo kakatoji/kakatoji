@@ -1,45 +1,37 @@
-
 ---
-title: AshifMohammad
-date: '2017-06-22'
-spoiler: Code Styled Readme Template
-categories: ["code-styled", "all-profile"]
-githubUsername: 'kakatoji'
+judul: kakatoji
+tanggal: '2017-05-31'
+spoiler: Template Readme Bergaya Kode
+kategori: ["code-styled", "all-profile"]
+Nama pengguna: 'kakatoji'
 ---
 
+## kakatoji 🙏
+[! [] (https://img.shields.io/badge/LinkedIn-kakatoji-blue)] (https://www.linkedin.com/in/kakatoji/)
+[! [] (https://img.shields.io/badge/Gmail-kakatoji%40gmail.com-red)] (mailto: kakatoji1@gmail.com)
+[! [] (https://img.shields.io/badge/Telegram-%40kakatoji-blue)] (https://t.me/kakatoji)
+[! [] (https://img.shields.io/badge/HackerRank-kakatoji-brightgreen)] (https://www.hackerrank.com/kakatoji)
+
+! [] (https://github.com/kakatoji/kakatoji/blob/master/aboutMe.png)
+<! - Untuk membuat tangkapan layar kode Anda, salin tautan di bawah ini:  
+https://carbon.now.sh/ ->
+
+## Tentang saya:
+#### Selalu penasaran untuk mempelajari teknologi mutakhir. Sedikit antusias terhadap pengembangan web. Pengodean kompetitif dan olahraga motor memacu adrenalin saya. <br> <br>
+
+! [pengunjung] (https://visitor-badge.glitch.me/badge?page_id=kakatoji.kakatoji) <br>
+<! - [! [HitCount] (http://hits.dwyl.com/kakatoji/kakatoji/kakatoji.svg)] (http://hits.dwyl.com/kakatoji/kakatoji/kakatoji) ->
 
 
-### Hi there 👋
+! [pengunjung] (https://visitor-badge.glitch.me/badge?page_id=kakatoji.kakatoji)
+[! [HitCount] (http://hits.dwyl.com/kakatoji/kakatoji/kakatoji.svg)] (http://hits.dwyl.com/kakatoji/kakatoji/kakatoji) <br>
 
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ashifZafar = {
-  pronouns: "he" | "his",
-  code: [Javascript, Typescript, HTML, CSS, Java, C# ],
-  tools: [React, Redux, Node, Storybook, Styled-Components, Jest, React-Testing-library,  docker, ansible , bamboo , devOps  ],
-  architecture: ["microfrontend", "miroservices","event-driven", "design system pattern", "behavior-driven-development", "test-driven-development"],
-  techCommunities: {
-                        coorganizer: ["corbiton","apache", "unicef"],
-                        speaker: "English/Urdu",
-                        workExperiences: [{companyName:"waltDisneyLondon", role:"programmerAnalyst"},
-                                          {companyName:"cdkGlobalInc", role:"softwareEngineer"},]
-
-
-                                           
-                      },
-}
-```
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+[! [forthebadge] (https://forthebadge.com/images/badges/built-with-love.svg)] (https://forthebadge.com)
 
 ---
 
- <img src="https://user-images.githubusercontent.com/20770645/90959204-22aafa00-e4b7-11ea-94d3-0139a8b1fd97.jpg" width="230">
- 
- ---
- ⭐️ From [@kakatoji](https://github.com/kakatoji)
- 
- 
+⭐️ Dari [@kakatoji] (https://github.com/kakatoji)
+
+<! - Untuk membuat tangkapan layar kode Anda, salin tautan di bawah ini:  
+https://carbon.now.sh/ ->
