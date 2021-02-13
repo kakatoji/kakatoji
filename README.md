@@ -7,7 +7,7 @@
 [![Youtobe: kakatoji](https://img.shields.io/youtube/views/12WCu9hTqMM?style=social)](https://youtu.be/12WCu9hTqMM)
 [![GitHub kakatoji](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/kakatoji)
 <br>
-[![ME kakatoji](https://img.shields.io/badge/DONATE-PLEASEDONATE-ff69b4.svg?style=flat)](donasi)
+[![ME kakatoji](https://img.shields.io/badge/ME-DONATE-ff69b4.svg?style=flat)](donasi)
 <br>
 [![Paypal kakatoji](https://img.shields.io/badge/$-paypal-ff69b4.svg?style=flat)](https://paypal.me/kakatoji)
 [![BTC kakatoji](https://img.shields.io/badge/BTC-18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm-ff69b4.svg?style=flat)](18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm)
