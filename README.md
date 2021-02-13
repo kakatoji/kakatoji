@@ -4,7 +4,7 @@
 <p><em>Bug and bot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
 
-[![Youtobe: kakatoji](https://img.shields.io/youtube/channel/UC0R5wpBvMvWig-vUSEjziRA?style=social)](https://youtube.com/channel/UC0R5wpBvMvWig-vUSEjziRA)
+[![Youtobe: kakatoji](https://img.shields.io/youtube/view/UC0R5wpBvMvWig-vUSEjziRA?style=social)](https://youtube.com/channel/UC0R5wpBvMvWig-vUSEjziRA)
 [![GitHub kakatoji](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/kakatoji)
 [![Paypal kakatoji](https://img.shields.io/badge/$-support-ff69b4.svg?style=flat)](https://paypal.me/kakatoji)
 [![BTC kakatoji](https://img.shields.io/keybase/btc/18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm)](18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm)
