@@ -3,7 +3,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=kakatoji&show_icons=true&theme=radical" width="380">
 <p><em>Bug and bot <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 </em></p>
-[![Facebook: kakatoji](https://img.shields.io/badge/kakatoji-ff69b4.svg?style=flat)](https://www.facebook.com/kakatoji77)
+
 [![Youtobe: kakatoji](https://img.shields.io/youtube/views/12WCu9hTqMM?style=social)](https://youtu.be/12WCu9hTqMM)
 [![GitHub kakatoji](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/kakatoji)
 <br>
