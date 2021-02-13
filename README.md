@@ -8,6 +8,9 @@
 [![GitHub kakatoji](https://img.shields.io/github/followers/kakatoji?label=follow%20github&style=flat-square)](https://github.com/kakatoji)
 [![Paypal kakatoji](https://img.shields.io/badge/$-paypal-ff69b4.svg?style=flat)](https://paypal.me/kakatoji)
 [![BTC kakatoji](https://img.shields.io/badge/BTC-18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm-ff69b4.svg?style=flat)](18J2JcnatvqtjrfdLYuqG9ZXcufARLWThm)
+[![DOGE kakatoji](https://img.shields.io/badge/DOGE-DSxA2WPRdsPpAmXgv9Jzxdnj8r5PUkCMGt-ff69b4.svg?style=flat)](DSxA2WPRdsPpAmXgv9Jzxdnj8r5PUkCMGt)
+[![LTC kakatoji](https://img.shields.io/badge/LTC-MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM-ff69b4.svg?style=flat)](MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM)
+[![ETH kakatoji](https://img.shields.io/badge/ETH-0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77-ff69b4.svg?style=flat)](0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77)
 <br>
 
 ### More about me...
