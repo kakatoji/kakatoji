@@ -24,10 +24,10 @@ type Me struct{
 
 func main() {
   me := &Me{
-    Job: "Bug Bounty Hunter and Backend developer",
+    Job: "Bug Bounty Hunter and Bot",
     Code: "Python, PHP, nodejs and Everythings",
     BestAndFavoriteSkill: "Web and Mobile Hacking",
-    Twitter: "https://twitter.com/verry__d"
+    Telegram: "https://t.me/kakatoji"
   }
   _ = me
 }
