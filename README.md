@@ -17,27 +17,3 @@
 [![LTC kakatoji](https://img.shields.io/badge/LTC-MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM-ff69b4.svg?style=flat)](MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM)
 [![ETH kakatoji](https://img.shields.io/badge/ETH-0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77-ff69b4.svg?style=flat)](0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77)
 <br>
-
-### More about me...
-
-```go
-package main
-
-type Me struct{
-  Code string
-  Job string
-  BestAndFavoriteSkill string
-  Twitter string
-}
-
-func main() {
-  me := &Me{
-    Job: "Bug Bounty Hunter and Bot",
-    Code: "Python, PHP, nodejs and Everythings",
-    BestAndFavoriteSkill: "Web and Mobile Hacking",
-    Telegram: "https://t.me/kakatoji"
-  }
-  _ = me
-}
-```
----
