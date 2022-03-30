@@ -17,3 +17,4 @@
 [![LTC kakatoji](https://img.shields.io/badge/LTC-MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM-ff69b4.svg?style=flat)](MSpzspDtbfJagAA2EQvmVvz7Cjrc3EWcbM)
 [![ETH kakatoji](https://img.shields.io/badge/ETH-0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77-ff69b4.svg?style=flat)](0xAf00eF5dac9726a7fF6B8D583383bFAde78E2F77)
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kakatoji&layout=compact)](https://github.com/kakatoji)
